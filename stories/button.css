@@ -12,7 +12,11 @@
   background-color: #1ea7fd;
 }
 .storybook-button--secondary {
+<<<<<<< Updated upstream
   color: gold;
+=======
+  color: green;
+>>>>>>> Stashed changes
   background-color: transparent;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
 }
